@@ -1,4 +1,4 @@
-# movmp4converter
+# movmp4converter 📽
 Shell script to convert all .mov files in one directory to .mp4 in another directory.
 
 ## Getting Started
